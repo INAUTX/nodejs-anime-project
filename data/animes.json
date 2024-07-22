@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2
+  },
+  {
+    "id": 3
+  },
+  {
+    "id": 3,
+    "title": "Bokuno piko",
+    "genre": "descubrelo",
+    "studioId": 18
+  },
+  {
+    "id": 4,
+    "title": "Bokuno piko",
+    "genre": "descubrelo",
+    "studioId": 18
+  },
+  {
+    "id": 5,
+    "title": "casa",
+    "genre": "sdf",
+    "studioId": 1
+  },
+  {
+    "id": 6,
+    "title": "Bokuno piko",
+    "genre": "descubrelo",
+    "studioId": 18
+  },
+  {
+    "id": 7,
+    "title": "Bokuno piko",
+    "genre": "descubrelo",
+    "studioId": 18
+  }
+]
